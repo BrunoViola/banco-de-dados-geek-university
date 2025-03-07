@@ -15,3 +15,13 @@ CREATE TABLE clientes(
     CONSTRAINT pk_clientes PRIMARY KEY (id),
     CONSTRAINT fk_clientes FOREIGN KEY (id_profissao) REFERENCES profissoes(id)
 );
+
+CREATE TABLE consumidor(
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(50) NOT NULL,
+    contato VARCHAR(50) NOT NULL,
+    endereco VARCHAR(100) NOT NULL,
+    cidade VARCHAR(100) NOT NULL,
+    cep VARCHAR(20) NOT NULL,
+    pais VARCHAR(50) NOT NULL
+);
