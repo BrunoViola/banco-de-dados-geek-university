@@ -7,3 +7,5 @@ Nesta seção foram apresentados as noções iniciais acerca da linguagem SQL (S
    - agrupamentos e ordenações
    - funções de data e hora
    - subconsultas
+
+Obs: cada pasta nomeada como "primeiro-exemplo" armazena um exemplo com tabelas próprias/diferentes, proporcionando o exercício de conhecimentos distintos.
