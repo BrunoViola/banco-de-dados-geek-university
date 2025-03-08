@@ -1,0 +1,3 @@
+SELECT CURTIME() AS 'Hora Atual';
+
+SELECT CURRENT_TIME() AS 'Hora Atual';

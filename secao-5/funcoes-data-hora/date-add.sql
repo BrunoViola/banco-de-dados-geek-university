@@ -1,0 +1,1 @@
+SELECT DATE_ADD(CURDATE(), INTERVAL 1 DAY) AS 'Data de Vencimento';

@@ -1,0 +1,1 @@
+SELECT DATE_SUB(CURDATE(), INTERVAL 10 DAY) AS 'Data de Mat´ricula';

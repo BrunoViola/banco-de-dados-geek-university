@@ -1,0 +1,1 @@
+SELECT DATEDIFF(CURDATE(), '2025-03-01') AS 'Dias em Atraso';
