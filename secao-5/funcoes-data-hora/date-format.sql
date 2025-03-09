@@ -1,1 +1,0 @@
-SELECT DATE_FORMAT(CURDATE(), '%d/%m/%Y') AS 'Data Formatada';
